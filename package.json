@@ -1,0 +1,24 @@
+{
+  "name": "videoinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "electron": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^19.0.4",
+    "fluent-ffmpeg": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiao215/videoinfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Xiao215/videoinfo/issues"
+  },
+  "homepage": "https://github.com/Xiao215/videoinfo#readme",
+  "description": ""
+}
